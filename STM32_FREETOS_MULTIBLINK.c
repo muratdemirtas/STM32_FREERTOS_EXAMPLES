@@ -18,7 +18,7 @@ static void LED1_Thread(void const *argument);
 static void LED2_Thread(void const *argument);
 static void	IN_BUILT_Thread(void const *argument);
 
-//USE THIS FOR PRONT CODE ERROR WITH FILE AND LINE
+//USE THIS FOR PRINT CODE ERROR WITH FILE AND LINE
 #define  USE_FULL_ASSERT
 
 //MAIN AND SETUP FUNCTION FOR STM32
